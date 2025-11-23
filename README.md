@@ -136,10 +136,6 @@ This is an educational project. Feel free to fork, modify, and use it for learni
 
 This project is created for educational purposes. Feel free to use it as a learning resource.
 
-## 👨‍💻 Author
-
-**JanithAberathna**
-
 ## 🙏 Acknowledgments
 
 - Flutter team for the amazing framework
